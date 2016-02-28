@@ -1,0 +1,48 @@
+_repo: The-Last-American-A-Fragment-from-the-Journal-of-Khan-li-Prince-of-Dimph-yoo-chur-and-Admiral-__7485
+creator:
+  author:
+    agent_name: Mitchell, John Ames
+    alias: Mitchell, J. A. (John Ames)
+    birthdate: 1845
+    deathdate: 1918
+    gutenberg_agent_id: '2484'
+    url: http://www.gutenberg.org/2009/agents/2484
+    wikipedia: http://en.wikipedia.org/wiki/John_Ames_Mitchell
+description: "The Last American is a short future history novel by John Ames Mitchell\
+  \ (1845–1918).\nFirst published in 1889, it is the fictional journal of a Persian\
+  \ admiral named Khan-Li, who rediscovers America in 2951 by sailing across the Atlantic.\
+  \ The world has been devastated, and North America virtually wiped out by climatic\
+  \ changes, which had later reversed themselves. Civilization there was just beginning\
+  \ to recover technologically (to the level of 1889). The book is, on the one hand\
+  \ a satirical look at ways and customs of the United States as reconstructed from\
+  \ the ruins and the Persians own spotty histories. It also seems to be a spoof of\
+  \ the archaeological discoveries that were being made at the time. All of the Persians\
+  \ have farcical names (Nōz-yt-ahl is the name of an historian, for example) and\
+  \ often speak in breathless wonder at what they see. The overall language is archaic\
+  \ in an odd sort of journalistic way.\nThe 1893 edition is a small hardcover book\
+  \ with 78 numbered pages. It is illustrated with half- page etchings inserted into\
+  \ the text and a few full-page etchings relating to the nearby text. One shows a\
+  \ reconstructed street scene with \"costumes and manner of riding...taken from metal\
+  \ plates now in the museum at Teheran\"; clearly indicating newspaper advertisements\
+  \ from a print shop. Another, \"The Wooden God\", is a cigar store Indian; \"The\
+  \ Ruins of the Great Temple\" shows a devastated Capitol Building.\nMontesquieu's\
+  \ Persian Letters may have provided some degree of inspiration. In its own turn,\
+  \ the book seems to have been a rough model for Aldous Huxley's Ape and Essence.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7485'
+  wikidata: Q7745568
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: "The Last American\r\nA Fragment from the Journal of Khan-li, Prince of Dimph-yoo-chur\
+  \ and Admiral in the Persian Navy"
+url: http://www.gutenberg.org/ebooks/7485
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Last_American_(novel)
