@@ -1,4 +1,8 @@
 _repo: The-Last-American-A-Fragment-from-the-Journal-of-Khan-li-Prince-of-Dimph-yoo-chur-and-Admiral-__7485
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mitchell, John Ames
@@ -29,6 +33,8 @@ description: "The Last American is a short future history novel by John Ames Mit
   \ Persian Letters may have provided some degree of inspiration. In its own turn,\
   \ the book seems to have been a rough model for Aldous Huxley's Ape and Essence.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7485#The-Last-American-A-Fragment-from-the-Journal-of-Khan-li-Prince-of-Dimph-yoo-chur-and-Admiral-_
 gutenberg_issued: '2005-02-01'
 gutenberg_type: Text
 identifiers:
